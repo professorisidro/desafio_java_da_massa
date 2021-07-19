@@ -1,10 +1,18 @@
 # Desafio Javão da Massa
 
-Salve Galera! Professor Isidrooooooo
+Salve Galera! Professor Isidrooooooo na área!!!
 
 ![image](http://vacanerd.com.br/wp-content/uploads/2013/11/1178380801_f-300x225.jpg)
 
-Yeeeeaaaahhhh!! Pois é, chegamos no nosso desafio Javão da Massa pra vocês aprenderem muito sobre lógica de programação usando Java. A idéia é fazermos uma série de estudos em conjunto, de forma que você pratique e também tenha as resoluções dos exercícios a cada dia. Vamos só definir algumas regrinhas
+Yeeeeaaaahhhh!! Pois é, chegamos no nosso desafio Javão da Massa pra vocês aprenderem muito sobre lógica de programação usando Java. A idéia é fazermos uma série de estudos em conjunto, de forma que você pratique e também tenha as resoluções dos exercícios a cada dia. 
+
+Inicia hoje (19/07 - sim para quem está de férias é uma boa pra já aquecer os motores para o próximo semestre) e serão disponibilizados os vídeos de correção sempre no dia seguinte ao desafio. Cada desafio ocorre de 2a a 6a feira (vou deixar o final de semana pra vocês reporem as energias). Portanto, começamos dia 19/07 e terminamos dia 31/07.
+
+*Ah isidro e se eu não puder participar neste período?*
+
+Não tem problema algum! Você pode fazer isso quando quiser. Mais importante que o **período de resolução** é a **consistência na participação**. Faça 1 exercício por dia (isso não deve tomar mais do que 30 minutos da sua rotina). E você poderá também buscar outros exercícios para melhorar seus estudos. O que é proposto aqui é mais do que só exercícios: **é a definição de uma rotina de estudos diária e consistente, que aproveite ao máximo o tempo que você tem livre e seja o mais objetivo possível**.
+
+Vamos só definir algumas regrinhas, beleza?
 
 ## Regras
 - Clone este repositório para ter acesso aos enunciados
