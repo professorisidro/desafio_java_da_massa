@@ -12,6 +12,8 @@ Inicia hoje (19/07 - sim para quem está de férias é uma boa pra já aquecer o
 
 Não tem problema algum! Você pode fazer isso quando quiser. Mais importante que o **período de resolução** é a **consistência na participação**. Faça 1 exercício por dia (isso não deve tomar mais do que 30 minutos da sua rotina). E você poderá também buscar outros exercícios para melhorar seus estudos. O que é proposto aqui é mais do que só exercícios: **é a definição de uma rotina de estudos diária e consistente, que aproveite ao máximo o tempo que você tem livre e seja o mais objetivo possível**.
 
+Para quem quiser ter acesso ao grupo de estudos do Tem Aula, é só fazer parte aqui: http://t.me/TemAula 
+
 Vamos só definir algumas regrinhas, beleza?
 
 ## Regras
