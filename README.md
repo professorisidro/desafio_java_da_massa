@@ -27,7 +27,7 @@ Vamos só definir algumas regrinhas, beleza?
 
 **Enunciado**: https://www.urionlinejudge.com.br/judge/pt/problems/view/1020
 
-**Vídeo de Correção**: 
+**Vídeo de Correção**: https://www.youtube.com/watch?v=M2QNrVlbtE0
 
 
 ## Dia 02
