@@ -43,7 +43,7 @@ https://www.professorisidro.com.br/public-static-void-mainstring-args-e-de-comer
 
 **Enunciado**: https://www.urionlinejudge.com.br/judge/pt/problems/view/1014
 
-**Vídeo de Correção**: 
+**Vídeo de Correção**: https://www.youtube.com/watch?v=rLnltKEDzR0
 
 
 ## Dia 03
