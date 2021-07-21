@@ -22,6 +22,14 @@ Vamos só definir algumas regrinhas, beleza?
 - Você precisará criar sua conta no Uri Online Judge (caso ainda não tenha) https://www.urionlinejudge.com.br/judge/pt
 - Para cada submissão, você deverá ter como resultado *Accepted* (aqui não vamos levar em conta desempenho, por enquanto)
 
+## Materiais de apoio
+Quer configurar seu JDK para rodar no Prompt do Windows? Cola aqui!
+https://www.professorisidro.com.br/quer-configurar-o-jdk-para-fazer-seu-hello-world-no-prompt/
+
+Não entende direito o famoso **public static void main(String args[])**? Confere essa publicação aqui:
+https://www.professorisidro.com.br/public-static-void-mainstring-args-e-de-comer/
+
+
 ## Dia 01
 **Objetivo:** Treinar Entrada -> Processamento -> Saída (sem formatação). Dica: pense no operador de resto de divisão
 
