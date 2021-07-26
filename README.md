@@ -58,7 +58,7 @@ https://www.professorisidro.com.br/public-static-void-mainstring-args-e-de-comer
 
 **Enunciado**: https://www.urionlinejudge.com.br/judge/pt/problems/view/1037
 
-**Vídeo de Correção**: 
+**Vídeo de Correção**: https://www.youtube.com/watch?v=-fj7-K92pYI&t=7s
 
 
 ## Dia 05
