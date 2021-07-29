@@ -66,7 +66,7 @@ https://www.professorisidro.com.br/public-static-void-mainstring-args-e-de-comer
 
 **Enunciado**: https://www.urionlinejudge.com.br/judge/pt/problems/view/1050
 
-**Vídeo de Correção**: 
+**Vídeo de Correção**: https://www.youtube.com/watch?v=4Qm0sxNLjWM
 
 
 ## Dia 06
@@ -74,7 +74,7 @@ https://www.professorisidro.com.br/public-static-void-mainstring-args-e-de-comer
 
 **Enunciado**: https://www.urionlinejudge.com.br/judge/pt/problems/view/1066
 
-**Vídeo de Correção**: 
+**Vídeo de Correção**: https://www.youtube.com/watch?v=eeE3Ik_-ukY
 
 
 ## Dia 07
@@ -82,7 +82,7 @@ https://www.professorisidro.com.br/public-static-void-mainstring-args-e-de-comer
 
 **Enunciado**: https://www.urionlinejudge.com.br/judge/pt/problems/view/1115
 
-**Vídeo de Correção**: 
+**Vídeo de Correção**: https://www.youtube.com/watch?v=ocORZ7vJMUQ
 
 
 ## Dia 08
@@ -90,7 +90,7 @@ https://www.professorisidro.com.br/public-static-void-mainstring-args-e-de-comer
 
 **Enunciado**: https://www.urionlinejudge.com.br/judge/pt/problems/view/1164
 
-**Vídeo de Correção**: 
+**Vídeo de Correção**: https://www.youtube.com/watch?v=on5F5aaVpDY
 
 
 ## Dia 09
