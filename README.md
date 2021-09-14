@@ -98,7 +98,7 @@ https://www.professorisidro.com.br/public-static-void-mainstring-args-e-de-comer
 
 **Enunciado**: https://www.urionlinejudge.com.br/judge/pt/problems/view/1180
 
-**Vídeo de Correção**: 
+**Vídeo de Correção**: https://www.youtube.com/watch?v=OmNb2VeMzoQ
 
 
 ## Dia 10
@@ -106,6 +106,6 @@ https://www.professorisidro.com.br/public-static-void-mainstring-args-e-de-comer
 
 **Enunciado**: https://www.urionlinejudge.com.br/judge/pt/problems/view/1184
 
-**Vídeo de Correção**: 
+**Vídeo de Correção**: https://www.youtube.com/watch?v=pAx5Q9gICOQ
 
 
